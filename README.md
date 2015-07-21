@@ -18,8 +18,7 @@ wget https://raw.githubusercontent.com/jypy/retropie-osmc/master/INSTALL_RETROPI
 
 Run the script:
 
-chmod +x INSTALL_RETROPIE_ON_OSMC_RC.sh
-sudo ./INSTALL_RETROPIE_ON_OSMC_RC.sh
+chmod +x INSTALL_RETROPIE_ON_OSMC_RC.sh && sudo ./INSTALL_RETROPIE_ON_OSMC_RC.sh
 
 Wait a long time and pray.
 
